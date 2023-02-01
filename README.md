@@ -21,15 +21,15 @@ Topic 1: Love, Family and Acceptance
 
 Topic Representative:
 
-<img width="1382" alt="Screenshot 2023-02-01 at 2 39 06 PM" src="https://user-images.githubusercontent.com/113895589/215970023-0f54ca88-c80a-40a5-bb91-5550f2f63d8a.png">
+<img width="1384" alt="Screenshot 2023-02-01 at 2 41 41 PM" src="https://user-images.githubusercontent.com/113895589/215970563-f8bb842a-d5a2-4b74-97dd-c3310a09b06c.png">
+
 
 
 Topic 2: Love, Family and Frustrations
 
 Topic Representative:
 
-<img width="1361" alt="Screenshot 2023-02-01 at 2 39 15 PM" src="https://user-images.githubusercontent.com/113895589/215970071-cb313878-e216-453c-bc01-a16ad51641b3.png">
-
+<img width="1375" alt="Screenshot 2023-02-01 at 2 42 05 PM" src="https://user-images.githubusercontent.com/113895589/215970586-24c0d0e3-ace6-4968-a91a-4a39195b6a8b.png">
 
 Topic 3: Religion
 
@@ -41,4 +41,5 @@ Topic 4: No last statement
 
 Topic Representative:
 
-<img width="1380" alt="Screenshot 2023-02-01 at 2 39 31 PM" src="https://user-images.githubusercontent.com/113895589/215970117-3d05e70d-4e04-4d0d-b06b-fd7e445ebea1.png">
+<img width="1356" alt="Screenshot 2023-02-01 at 2 42 16 PM" src="https://user-images.githubusercontent.com/113895589/215970527-b7421f81-a3b0-4ead-ab48-65a5b3ff8a1d.png">
+
