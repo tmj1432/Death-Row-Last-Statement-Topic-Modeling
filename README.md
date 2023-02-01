@@ -17,7 +17,7 @@ In summary, we have managed to cluster last statements of inmates into five diff
 <img width="1391" alt="Screenshot 2023-02-01 at 2 38 56 PM" src="https://user-images.githubusercontent.com/113895589/215970005-29843152-596e-4d88-a7b6-e8e060241249.png">
 
 
-### Topic 1: Love, Family and Acceptance
+### Topic 1: Love and Acceptance
 
 #### Topic Representative:
 
