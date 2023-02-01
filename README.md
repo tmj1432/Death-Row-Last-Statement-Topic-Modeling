@@ -43,3 +43,8 @@ In summary, we have managed to cluster last statements of inmates into five diff
 
 <img width="1356" alt="Screenshot 2023-02-01 at 2 42 16 PM" src="https://user-images.githubusercontent.com/113895589/215970527-b7421f81-a3b0-4ead-ab48-65a5b3ff8a1d.png">
 
+## Intertopic Distance
+
+https://user-images.githubusercontent.com/113895589/215971504-bfd5b172-0fe5-48ae-8632-c7e2ddc253fe.mp4
+
+Based on the plot above, we can see that topics 0, 2 and 3 are similar to each other and topics 1 and 4 are similar to each other. We can also see that between topics 0, 2, 3 and topics 1 and 4, there is a great distance which shows low similarity between the two groups.
