@@ -4,6 +4,10 @@
 
 This project showcases web scraping using BeautifulSoup and topic modeling using BERTopic
 
+## Webscraping
+
+Messages were scraped from the link [here](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)
+
 ## Findings 
 
 ![newplot-3](https://user-images.githubusercontent.com/113895589/215968618-48a08043-1329-4ccd-a04d-27bd59e44538.png)
