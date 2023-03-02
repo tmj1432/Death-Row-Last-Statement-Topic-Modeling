@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project showcases web scraping using BeautifulSoup and topic modeling using BERTopic
+This project showcases web scraping using BeautifulSoup to scrape last messages of inmates on death row, perform natural language processing and topic model these messages using BERTopic.
 
 ## Webscraping
 
